@@ -1,0 +1,8 @@
+{
+  "name": "ApexCloudStream",
+  "description": "Watch anything 2026",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/AnesFz/ApexCloudStream/builds/plugins.json"
+  ]
+}
